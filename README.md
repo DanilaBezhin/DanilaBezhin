@@ -2,14 +2,14 @@
   <img src="https://media3.giphy.com/media/igPI1zNLfTO2Dm1mb1/giphy.gif" width="250">
 </div>
 
-<div id="badges" align="center">
+<div target="_blank» id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a target="_blank» href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/DanilaBezhin">
+  <a target="_blank» href="https://www.codewars.com/users/DanilaBezhin">
     <img src="https://img.shields.io/badge/Codewars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
   </a>
 </div>
@@ -29,13 +29,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I develop beautiful and user-friendly interfaces for users.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
