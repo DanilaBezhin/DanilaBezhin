@@ -9,7 +9,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-codewars-URL">
+  <a href="https://www.codewars.com/users/DanilaBezhin">
     <img src="https://img.shields.io/badge/Codewars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
   </a>
 </div>
