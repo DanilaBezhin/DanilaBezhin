@@ -6,11 +6,11 @@
   <a href="https://www.codewars.com/users/DanilaBezhin">
     <img src="https://img.shields.io/badge/Codewars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/danila-bezhin-23a6a928a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UC3uZ3TdsDdSg1i77CGOZKgw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danila-bezhin-23a6a928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
