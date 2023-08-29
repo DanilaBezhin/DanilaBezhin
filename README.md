@@ -33,9 +33,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I develop beautiful and user-friendly interfaces for users.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I like to solve interesting problems.
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read articles about best practices.
 
 ---
 
