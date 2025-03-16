@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="200">
+  <img src="https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif" width="200">
 </div>
 
 <div target="_blank» id="badges" align="center">
