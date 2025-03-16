@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="200"/>
 </div>
 
 <div target="_blank» id="badges" align="center">
