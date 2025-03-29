@@ -1,18 +1,25 @@
 <!-- Первая секция с гифкой, ссылками и разделительной чертой -->
 
-![Demo GIF]([https://example.com/your-gif-url.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluM29ydGx3OHhoOWZ3ZXYwZTc0ZnBraDJmZnpvNmV2bTVyaXpleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)) <!-- Замените URL на вашу гифку -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluM29ydGx3OHhoOWZ3ZXYwZTc0ZnBraDJmZnpvNmV2bTVyaXpleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Demo GIF" width="400" />
 
 ---
 
 ### 🌟 Профиль и проекты
 
-- **Codewars**: [Профиль Codewars](https://www.codewars.com/users/DanilaBezhin/badges/large)  
-  _Посмотрите мои достижения на Codewars._
-
-- **Личный сайт**: [danilabezhin.github.io/green_school](https://danilabezhin.github.io/green_school/)  
-  _Мои проекты и разработки._
-
-- **YouTube**: [Ссылка на канал] <!-- Добавьте ссылку, когда она появится -->  
-  _Обучающие видео и обзоры._
+<div align="center">
+  <a href="https://www.codewars.com/users/DanilaBezhin/badges/large" target="_blank">
+    <img src="https://www.codewars.com/users/DanilaBezhin/badges/large" alt="Codewars Badge" />
+  </a>
+  <br /><br />
+  
+  <a href="https://danilabezhin.github.io/green_school/" target="_blank">
+    <img src="https://img.shields.io/badge/Личный%20сайт-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Личный сайт" />
+  </a>
+  <br /><br />
+  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
 ---
