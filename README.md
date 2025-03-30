@@ -2,7 +2,7 @@
 
 ## 🚀 Приветствие
 
-[![Codewars](https://www.codewars.com/users/DanilaBezhin/badges/micro)](https://www.codewars.com/users/DanilaBezhin)
+[![Codewars](https://www.codewars.com/users/DanilaBezhin/badges/small)](https://www.codewars.com/users/DanilaBezhin)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluM29ydGx3OHhoOWZ3ZXYwZTc0ZnBraDJmZnpvNmV2bTVyaXpleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Hello World" width="300"/>
 
@@ -43,9 +43,6 @@
 ## 📊 Активность
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBezhin&layout=compact&theme=github_dark)
-
-[![wakatime](https://wakatime.com/badge/user/xxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx.svg)](https://wakatime.com/@DanilaBezhin)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode&query=solved&url=https://leetcode-badge.vercel.app/api/username/DanilaBezhin)](https://leetcode.com/DanilaBezhin)
 
 ---
 
