@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=DanilaBezhin&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=DanilaBezhin&color=blue)
 
-## 🚀 HELLO THERE!
+## 🚀 Hello there!
 
 [![Codewars](https://www.codewars.com/users/DanilaBezhin/badges/small)](https://www.codewars.com/users/DanilaBezhin)
 
