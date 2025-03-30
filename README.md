@@ -1,4 +1,6 @@
-<div style="text-align:center; max-width:600px; margin:auto; font-family: Arial, sans-serif; padding: 20px; box-sizing: border-box;">
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+<div align="center">
 
   <!-- Гифка -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHluM29ydGx3OHhoOWZ3ZXYwZTc0ZnBraDJmZnpvNmV2bTVyaXpleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Demo GIF" width="400" style="display:block; margin:auto;" />
