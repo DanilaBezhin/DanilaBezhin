@@ -18,9 +18,9 @@
     </a>
     
     <!-- YouTube -->
-    <a href="https://www.youtube.com/" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   </div>
 
 </div>
