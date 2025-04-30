@@ -48,7 +48,7 @@ Hi! I'm Danila, a Full-stack developer with a passion for creating clean and eff
 
 ## 📊 Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBezhin&layout=compact&theme=github_dark&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBezhin&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
 
 ---
 
